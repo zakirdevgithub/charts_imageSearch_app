@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/charts_imageSearch_app/static/css/main.e9163e9f.chunk.css",
+    "main.js": "/charts_imageSearch_app/static/js/main.311fe4a2.chunk.js",
+    "main.js.map": "/charts_imageSearch_app/static/js/main.311fe4a2.chunk.js.map",
+    "runtime-main.js": "/charts_imageSearch_app/static/js/runtime-main.d0d29d66.js",
+    "runtime-main.js.map": "/charts_imageSearch_app/static/js/runtime-main.d0d29d66.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/charts_imageSearch_app/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3a2bf502.chunk.js": "/charts_imageSearch_app/static/js/2.3a2bf502.chunk.js",
+    "static/js/2.3a2bf502.chunk.js.map": "/charts_imageSearch_app/static/js/2.3a2bf502.chunk.js.map",
+    "static/js/3.b7f4087f.chunk.js": "/charts_imageSearch_app/static/js/3.b7f4087f.chunk.js",
+    "static/js/3.b7f4087f.chunk.js.map": "/charts_imageSearch_app/static/js/3.b7f4087f.chunk.js.map",
+    "index.html": "/charts_imageSearch_app/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/charts_imageSearch_app/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.e9163e9f.chunk.css.map": "/charts_imageSearch_app/static/css/main.e9163e9f.chunk.css.map",
+    "static/js/2.3a2bf502.chunk.js.LICENSE.txt": "/charts_imageSearch_app/static/js/2.3a2bf502.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0d29d66.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3a2bf502.chunk.js",
+    "static/css/main.e9163e9f.chunk.css",
+    "static/js/main.311fe4a2.chunk.js"
+  ]
+}
