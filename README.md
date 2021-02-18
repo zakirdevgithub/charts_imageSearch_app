@@ -1,4 +1,4 @@
-Live Link:
+Live Link:  https://zakirdevgithub.github.io/charts_imageSearch_app/
 
 # Getting Started with Create React App
 
